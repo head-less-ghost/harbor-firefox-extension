@@ -1,0 +1,1 @@
+# harbor-firefox-extension
