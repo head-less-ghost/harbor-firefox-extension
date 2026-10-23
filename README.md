@@ -40,7 +40,7 @@ Open Terminal in the extracted folder:
 
 
    ```sh
-   cd ~/your/path/to/harbor-chrome-extension
+   cd ~/your/path/to/Harbor-Firefox-Native-Helper
    ```
 
 and run:
