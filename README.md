@@ -36,7 +36,15 @@ You can also distribute a Mozilla-signed release through the project's GitHub Re
 
 Download the matching native-helper package from the project's Releases page and extract it.
 
-Open Terminal in the extracted folder and run:
+Open Terminal in the extracted folder:
+
+
+   ```sh
+   cd ~/your/path/to/harbor-chrome-extension
+   ```
+
+and run:
+
 
 ```bash
 chmod +x install-firefox.sh
