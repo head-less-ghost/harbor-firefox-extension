@@ -4,6 +4,8 @@ Send download links from Firefox directly to Harbor, the macOS download manager.
 
 Harbor Download Helper is a Firefox extension that sends links to Harbor through the `harbor://` URL scheme. It provides right-click actions, a toolbar popup, and optional automatic download forwarding.
 
+### locking for chrome version? [chrome](https://github.com/head-less-ghost/harbor-chrome-extension).
+
 ## Features
 
 - **Right-click integration** — Send links and the current page to Harbor.
@@ -28,7 +30,7 @@ Harbor Download Helper is a Firefox extension that sends links to Harbor through
 
 ### 1. Install the Firefox extension
 
-When available, install it from the [Firefox Add-ons website](https://addons.mozilla.org/firefox/).
+When available, install it from the [Firefox Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/harbor-download-helper/).
 
 You can also distribute a Mozilla-signed release through the project's GitHub Releases page.
 
