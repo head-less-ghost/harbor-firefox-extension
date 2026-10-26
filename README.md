@@ -30,7 +30,7 @@ Harbor Download Helper is a Firefox extension that sends links to Harbor through
 
 ### 1. Install the Firefox extension
 
-When available, install it from the [Firefox Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/harbor-download-helper/).
+install it from the [Firefox Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/harbor-download-helper/).
 
 You can also distribute a Mozilla-signed release through the project's GitHub Releases page.
 
