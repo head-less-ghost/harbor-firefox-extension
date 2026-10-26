@@ -117,36 +117,6 @@ Only the permissions present in the published manifest apply.
 - Some websites require cookies, authentication, or request headers that are not transferred.
 - Try the same URL directly in Harbor.
 
-### Temporary testing
-
-1. Extract the extension ZIP in release.(Harbor-Firefox-extention-addon.zip)
-2. search `about:debugging#/runtime/this-firefox` in Firefox.
-3. Click **Load Temporary Add-on…**.
-4. Select the extension's `manifest.json`.
-5. Install the native helper separately.
-
-Download the matching native-helper package from the project's Releases page and extract it.
-
-Open Terminal in the extracted folder:
-
-
-   ```sh
-   cd ~/your/path/to/Harbor-Firefox-Native-Helper
-   ```
-
-and run:
-
-
-```bash
-chmod +x install-firefox.sh
-./install-firefox.sh
-```
-
-Follow the installer's instructions. The helper registers Firefox Native Messaging so the extension can communicate with Harbor locally.
-
-Completely quit Firefox with **Cmd + Q**, then reopen it.
-
-Temporary add-ons are removed when Firefox restarts. For normal distribution, submit the extension to Mozilla for signing.
 
 ## License
 
